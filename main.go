@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-    fmt.Fprintf(os.Stdout, "Hello PAC")
+    fmt.Fprintf(os.Stdout, "Hello form PAC")
 }
